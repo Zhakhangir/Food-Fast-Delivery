@@ -62,6 +62,8 @@ Install the Expo Go app from the App Store (iOS) or Google Play (Android).
 Scan the QR code displayed in the Expo DevTools to open the app on your device.
 Folder Structure
 Here’s a high-level overview of the project structure:
+
+```
 /food-fast-delivery
 ├── /assets             # Images and static assets
 ├── /components         # Reusable components (e.g., buttons, card components)
@@ -72,6 +74,7 @@ Here’s a high-level overview of the project structure:
 ├── /styles             # Tailwind and NativeWind styles
 ├── App.js              # Main entry point of the application
 └── package.json        # Project dependencies and scripts
+```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
