@@ -32,24 +32,30 @@ Follow the steps below to get the project up and running on your local machine.
 ```bash
 git clone https://github.com/your-username/food-fast-delivery.git
 cd food-fast-delivery
+```
 
-2. Install dependencies
+## 2. Install dependencies
 Make sure you have Node.js and npm installed. Then, run the following command to install all required dependencies:
 npm install
 
 Alternatively, if you prefer using Yarn, you can run:
+```bash
 yarn install
-
-3. Install Expo CLI (if not already installed)
+```
+##3. Install Expo CLI (if not already installed)
 If you don't have Expo CLI installed, you can install it globally using npm:
+```bash
 npm install -g expo-cli
+```
 
-4. Start the development server
+##4. Start the development server
 To start the project locally, run the following command:
+```bash
 expo start
+```
 This will start the development server and open the Expo DevTools in your browser. You can use a physical device or an emulator to preview the app.
 
-Running on a Physical Device
+##5 Running on a Physical Device
 To run the app on a physical device, follow these steps:
 
 Install the Expo Go app from the App Store (iOS) or Google Play (Android).
