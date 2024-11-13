@@ -42,20 +42,20 @@ Alternatively, if you prefer using Yarn, you can run:
 ```bash
 yarn install
 ```
-##3. Install Expo CLI (if not already installed)
+## 3. Install Expo CLI (if not already installed)
 If you don't have Expo CLI installed, you can install it globally using npm:
 ```bash
 npm install -g expo-cli
 ```
 
-##4. Start the development server
+## 4. Start the development server
 To start the project locally, run the following command:
 ```bash
 expo start
 ```
 This will start the development server and open the Expo DevTools in your browser. You can use a physical device or an emulator to preview the app.
 
-##5 Running on a Physical Device
+## 5 Running on a Physical Device
 To run the app on a physical device, follow these steps:
 
 Install the Expo Go app from the App Store (iOS) or Google Play (Android).
@@ -73,7 +73,7 @@ Here’s a high-level overview of the project structure:
 ├── App.js              # Main entry point of the application
 └── package.json        # Project dependencies and scripts
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
